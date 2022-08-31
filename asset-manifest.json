@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://neeraj577.github.io/csb-wf4jwj/static/css/main.57a586f2.chunk.css",
+    "main.js": "https://neeraj577.github.io/csb-wf4jwj/static/js/main.748497d2.chunk.js",
+    "main.js.map": "https://neeraj577.github.io/csb-wf4jwj/static/js/main.748497d2.chunk.js.map",
+    "runtime-main.js": "https://neeraj577.github.io/csb-wf4jwj/static/js/runtime-main.fc14107b.js",
+    "runtime-main.js.map": "https://neeraj577.github.io/csb-wf4jwj/static/js/runtime-main.fc14107b.js.map",
+    "static/js/2.1f7e0b73.chunk.js": "https://neeraj577.github.io/csb-wf4jwj/static/js/2.1f7e0b73.chunk.js",
+    "static/js/2.1f7e0b73.chunk.js.map": "https://neeraj577.github.io/csb-wf4jwj/static/js/2.1f7e0b73.chunk.js.map",
+    "index.html": "https://neeraj577.github.io/csb-wf4jwj/index.html",
+    "static/css/main.57a586f2.chunk.css.map": "https://neeraj577.github.io/csb-wf4jwj/static/css/main.57a586f2.chunk.css.map",
+    "static/js/2.1f7e0b73.chunk.js.LICENSE.txt": "https://neeraj577.github.io/csb-wf4jwj/static/js/2.1f7e0b73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc14107b.js",
+    "static/js/2.1f7e0b73.chunk.js",
+    "static/css/main.57a586f2.chunk.css",
+    "static/js/main.748497d2.chunk.js"
+  ]
+}
